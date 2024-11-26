@@ -1,0 +1,7 @@
+This is python virtual assistant  that use voice command to process 
+          the request 
+                      
+                 ! Frist rum main python file 
+         Note : ! please extract this folder on desktop
+                else: make a folder on desktop with python virtual assistant
+         
